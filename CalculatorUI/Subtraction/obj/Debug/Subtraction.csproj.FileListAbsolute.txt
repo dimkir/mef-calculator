@@ -1,0 +1,7 @@
+D:\MEFExperiment\SimpleCalculator-Part3\CalculatorUI\Subtraction\bin\Debug\Subtraction.dll
+D:\MEFExperiment\SimpleCalculator-Part3\CalculatorUI\Subtraction\bin\Debug\Subtraction.pdb
+D:\MEFExperiment\SimpleCalculator-Part3\CalculatorUI\Subtraction\bin\Debug\CalculatorContract.dll
+D:\MEFExperiment\SimpleCalculator-Part3\CalculatorUI\Subtraction\bin\Debug\CalculatorContract.pdb
+D:\MEFExperiment\SimpleCalculator-Part3\CalculatorUI\Subtraction\obj\Debug\ResolveAssemblyReference.cache
+D:\MEFExperiment\SimpleCalculator-Part3\CalculatorUI\Subtraction\obj\Debug\Subtraction.dll
+D:\MEFExperiment\SimpleCalculator-Part3\CalculatorUI\Subtraction\obj\Debug\Subtraction.pdb

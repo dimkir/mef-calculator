@@ -1,0 +1,7 @@
+D:\MEFExperiment\SimpleCalculator-Part3\CalculatorUI\Add\bin\Debug\Add.dll
+D:\MEFExperiment\SimpleCalculator-Part3\CalculatorUI\Add\bin\Debug\Add.pdb
+D:\MEFExperiment\SimpleCalculator-Part3\CalculatorUI\Add\bin\Debug\CalculatorContract.dll
+D:\MEFExperiment\SimpleCalculator-Part3\CalculatorUI\Add\bin\Debug\CalculatorContract.pdb
+D:\MEFExperiment\SimpleCalculator-Part3\CalculatorUI\Add\obj\Debug\ResolveAssemblyReference.cache
+D:\MEFExperiment\SimpleCalculator-Part3\CalculatorUI\Add\obj\Debug\Add.dll
+D:\MEFExperiment\SimpleCalculator-Part3\CalculatorUI\Add\obj\Debug\Add.pdb

@@ -1,0 +1,7 @@
+D:\MEFExperiment\SimpleCalculator\CalculatorUI\CalculatorFactory\bin\Debug\CalculatorFactory.dll
+D:\MEFExperiment\SimpleCalculator\CalculatorUI\CalculatorFactory\bin\Debug\CalculatorFactory.pdb
+D:\MEFExperiment\SimpleCalculator\CalculatorUI\CalculatorFactory\obj\Debug\ResolveAssemblyReference.cache
+D:\MEFExperiment\SimpleCalculator\CalculatorUI\CalculatorFactory\obj\Debug\CalculatorFactory.dll
+D:\MEFExperiment\SimpleCalculator\CalculatorUI\CalculatorFactory\obj\Debug\CalculatorFactory.pdb
+D:\MEFExperiment\SimpleCalculator\CalculatorUI\CalculatorFactory\bin\Debug\CalculatorContract.dll
+D:\MEFExperiment\SimpleCalculator\CalculatorUI\CalculatorFactory\bin\Debug\CalculatorContract.pdb

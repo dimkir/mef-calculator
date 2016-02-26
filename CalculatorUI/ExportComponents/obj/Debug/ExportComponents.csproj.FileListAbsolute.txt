@@ -1,0 +1,5 @@
+D:\MEFExperiment\SimpleCalculator-Part3\CalculatorUI\ExportComponents\bin\Debug\ExportComponents.dll
+D:\MEFExperiment\SimpleCalculator-Part3\CalculatorUI\ExportComponents\bin\Debug\ExportComponents.pdb
+D:\MEFExperiment\SimpleCalculator-Part3\CalculatorUI\ExportComponents\obj\Debug\ResolveAssemblyReference.cache
+D:\MEFExperiment\SimpleCalculator-Part3\CalculatorUI\ExportComponents\obj\Debug\ExportComponents.dll
+D:\MEFExperiment\SimpleCalculator-Part3\CalculatorUI\ExportComponents\obj\Debug\ExportComponents.pdb

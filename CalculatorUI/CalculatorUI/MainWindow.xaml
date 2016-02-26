@@ -1,0 +1,17 @@
+﻿<Window x:Class="CalculatorUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="SimpleCalculator" Height="275" Width="450">
+    <Grid>
+        <Label Content="Enter First Number" Height="28" HorizontalAlignment="Left" Margin="28,29,0,0" Name="lblFirstNumber" VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="169,34,0,0" Name="txtFirstNumber" VerticalAlignment="Top" Width="120" Background="#FFBFE2BF">10</TextBox>
+        <Label Content="Enter Second Number" Height="28" HorizontalAlignment="Left" Margin="25,76,0,0" Name="lblSecondNumber" VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="169,78,0,0" Name="txtSecondNumber" VerticalAlignment="Top" Width="120" Background="#FFBFE2BF" >5</TextBox>
+        <Button Content="Add" Height="23" HorizontalAlignment="Left" Margin="28,183,0,0" Name="btnAdd" VerticalAlignment="Top" Width="75" Click="btnAdd_Click" />
+        <Button Content="Subtract" Height="23" HorizontalAlignment="Left" Margin="138,183,0,0" Name="btnSubtract" VerticalAlignment="Top" Width="75" Click="btnSubtract_Click" />
+        <Button Content="Multiply" Height="23" HorizontalAlignment="Left" Margin="238,183,0,0" Name="btnMultiply" VerticalAlignment="Top" Width="75" Click="btnMultiply_Click" />
+        <Button Content="Divide" Height="23" HorizontalAlignment="Left" Margin="337,183,0,0" Name="btnDivide" VerticalAlignment="Top" Width="75" Click="btnDivide_Click" />
+        <Label Content="Result" Height="28" HorizontalAlignment="Left" Margin="28,123,0,0" Name="lblResult" VerticalAlignment="Top" />
+        <TextBlock Background="#FFBFE2BF" Height="23" HorizontalAlignment="Left" Margin="170,125,0,0" Name="txtResult" VerticalAlignment="Top" Width="120" />
+    </Grid>
+</Window>
